@@ -15,9 +15,9 @@ https://saba-meteo.vercel.app
 ## 📸 Preview
 
 <p align="center">
-  <img src="./assets/preview/preview1.png" width="45%" />
-  <img src="./assets/preview/preview2.png" width="45%" />
-  <img src="./assets/preview/preview3.png" width="45%" />
+  <img src="./src/assets/preview/preview1.png" width="45%" />
+  <img src="./src/assets/preview/preview2.png" width="45%" />
+  <img src="./src/assets/preview/preview3.png" width="45%" />
 </p>
 
 ---
